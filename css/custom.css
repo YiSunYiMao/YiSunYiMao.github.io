@@ -1,0 +1,18 @@
+.widget,
+.footer,
+.navbar {
+  background-color: rgba(255,255,255,0.812);
+}
+.is-3-column,
+.is-2-column,
+.is-1-column {
+  background-image: url("/img/1.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.archives,
+.recent_posts {
+  background-color: rgba(255,255,255,0.812);
+}
